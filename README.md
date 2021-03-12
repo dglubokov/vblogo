@@ -1,2 +1,2 @@
-# blogo
-Go code for my blog
+# vblogo
+Vue + Go code for my blog
