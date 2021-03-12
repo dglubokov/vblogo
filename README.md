@@ -1,2 +1,2 @@
-# vblogo
-My Go + Vue blog code
+# blogo
+Go code for my blog
